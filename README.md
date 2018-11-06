@@ -1,6 +1,6 @@
 # npm-crosser
 
-Docker project for installing cross compiled npm modules.
+Docker project for installing cross compiled npm modules. Currently installs modules using node v8.11.3-linux-x86 for armhfv7.
 
 ## Building the container
 
